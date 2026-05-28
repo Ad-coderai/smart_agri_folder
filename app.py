@@ -10,7 +10,7 @@ import random
 from vision import analyze_health
 
 # --- PAGE CONFIGURATION ---
-st.set_page_config(page_title="Smart Agri-Assistant | Control Center", page_icon="🌱", layout="wide")
+st.set_page_config(page_title="Sprout Smart | Control Center", page_icon="🌱", layout="wide")
 
 # Constants
 MOISTURE_FILE = 'moisture_data.txt'

@@ -1,8 +1,8 @@
 streamlit
+pyserial
 mysql-connector-python
 opencv-python-headless
-tensorflow
-requests
 numpy
-python-dotenv
-pandas
+tensorflow-cpu==2.16.1
+pillow
+requests
